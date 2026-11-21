@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-11-21T18:21:44.352Z",
+  "params": {
+    "thetaBps": 5000,
+    "alphaBps": 1000,
+    "sigmaBps": 3000,
+    "capBps": 2500,
+    "maxRounds": 20,
+    "windowSeconds": 172800,
+    "mandatoryMask": 70,
+    "vetoMask": 68,
+    "verifiableMask": 60,
+    "tolerance": 50,
+    "slashBps": 5000,
+    "minStake": "1000000000000000000",
+    "challengeBond": "100000000000000000"
+  },
+  "perFunction": {
+    "deploy": {
+      "calls": 16,
+      "min": 3102823,
+      "max": 3102823,
+      "mean": 3102823
+    },
+    "registerAgent": {
+      "calls": 228,
+      "min": 56977,
+      "max": 74089,
+      "mean": 58188
+    },
+    "deposit": {
+      "calls": 228,
+      "min": 45735,
+      "max": 45735,
+      "mean": 45735
+    },
+    "proposeChange": {
+      "calls": 8,
+      "min": 138174,
+      "max": 160856,
+      "mean": 143845
+    },
+    "endorse": {
+      "calls": 7,
+      "min": 174819,
+      "max": 243207,
+      "mean": 204128
+    },
+    "stopSignal": {
+      "calls": 1,
+      "min": 89577,
+      "max": 89577,
+      "mean": 89577
+    },
+    "tick": {
+      "calls": 1,
+      "min": 95711,
+      "max": 95711,
+      "mean": 95711
+    },
+    "commit": {
+      "calls": 1,
+      "min": 35164,
+      "max": 35164,
+      "mean": 35164
+    },
+    "release": {
+      "calls": 1,
+      "min": 32166,
+      "max": 32166,
+      "mean": 32166
+    },
+    "challenge": {
+      "calls": 1,
+      "min": 176147,
+      "max": 176147,
+      "mean": 176147
+    },
+    "resolveChallenge (upheld)": {
+      "calls": 1,
+      "min": 143500,
+      "max": 143500,
+      "mean": 143500
+    },
+    "resolveChallenge (rejected)": {
+      "calls": 1,
+      "min": 66139,
+      "max": 66139,
+      "mean": 66139
+    },
+    "veto": {
+      "calls": 1,
+      "min": 41492,
+      "max": 41492,
+      "mean": 41492
+    },
+    "endorse (re-dance)": {
+      "calls": 1,
+      "min": 173463,
+      "max": 173463,
+      "mean": 173463
+    },
+    "abandon": {
+      "calls": 1,
+      "min": 52586,
+      "max": 52586,
+      "mean": 52586
+    }
+  },
+  "scaling": [
+    {
+      "agents": 6,
+      "withChallenge": false,
+      "totalGasPerDecision": 1567010,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 6,
+      "withChallenge": true,
+      "totalGasPerDecision": 1878194,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 12,
+      "withChallenge": false,
+      "totalGasPerDecision": 2743784,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 12,
+      "withChallenge": true,
+      "totalGasPerDecision": 3082607,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 24,
+      "withChallenge": false,
+      "totalGasPerDecision": 4905095,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 24,
+      "withChallenge": true,
+      "totalGasPerDecision": 5248718,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 48,
+      "withChallenge": false,
+      "totalGasPerDecision": 9227693,
+      "ticks": 1,
+      "finalState": 3
+    },
+    {
+      "agents": 48,
+      "withChallenge": true,
+      "totalGasPerDecision": 9571316,
+      "ticks": 1,
+      "finalState": 3
+    }
+  ]
+}

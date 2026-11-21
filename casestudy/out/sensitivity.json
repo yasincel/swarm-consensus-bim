@@ -1,0 +1,1120 @@
+[
+ {
+  "parameter": "lifetime_years",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "lifetime_years",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.ghi_kwh_m2_yr",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.ghi_kwh_m2_yr",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.heating_degree_days_Kd",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.heating_degree_days_Kd",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.south",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.south",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.east_west",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.east_west",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.north",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.north",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.roof",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "climate.facade_irradiance_factor.roof",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.pv_performance_ratio",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.pv_performance_ratio",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_system_efficiency",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_system_efficiency",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.electricity_price_eur_kwh",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.electricity_price_eur_kwh",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_fuel_price_eur_kwh",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_fuel_price_eur_kwh",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.grid_carbon_kg_kwh",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.grid_carbon_kg_kwh",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_fuel_carbon_kg_kwh",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "energy.heating_fuel_carbon_kg_kwh",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.u_w_m2k",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.u_w_m2k",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.vlt",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.vlt",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_double.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.u_w_m2k",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.u_w_m2k",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.vlt",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A1",
+   "A2",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.vlt",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A1",
+   "A2",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.cost_eur_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A0",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.cost_eur_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A1",
+   "A2",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.ec_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.glazed_triple.ec_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.u_w_m2k",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.u_w_m2k",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.vlt",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.vlt",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.pv_eff",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.pv_eff",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A1",
+   "A0",
+   "A2",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A3",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.cost_eur_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A1",
+   "A0",
+   "A2",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.cost_eur_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A3",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.ec_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.bipv_glass.ec_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_existing.pv_eff",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A3",
+   "A2",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_existing.pv_eff",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_existing.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_existing.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.edge_existing.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.edge_existing.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.pv_eff",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.pv_eff",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A3",
+   "A0",
+   "A2",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.mass_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.mass_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.cost_eur_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.cost_eur_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.ec_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.pv_high_eff.ec_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.removal_cost_eur_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "products.removal_cost_eur_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.structural_allowance_kg_m2",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.structural_allowance_kg_m2",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.mep_reference_kwh_yr",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.mep_reference_kwh_yr",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.cost_budget_eur",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.cost_budget_eur",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.carbon_target_t",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.carbon_target_t",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.client_reference_eur",
+  "factor": 0.8,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "scoring.client_reference_eur",
+  "factor": 1.2,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "weight.architect",
+  "factor": 2.0,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A3",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "weight.structural",
+  "factor": 2.0,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A3",
+   "A1",
+   "A2"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "weight.mep",
+  "factor": 2.0,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A2",
+   "A1",
+   "A0",
+   "A3"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "weight.cost",
+  "factor": 2.0,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A3",
+   "A1"
+  ],
+  "winner_changed": false
+ },
+ {
+  "parameter": "weight.sustainability",
+  "factor": 2.0,
+  "winner": "A2",
+  "ranking": [
+   "A2",
+   "A1",
+   "A4",
+   "A0",
+   "A3"
+  ],
+  "winner_changed": true
+ },
+ {
+  "parameter": "weight.client",
+  "factor": 2.0,
+  "winner": "A4",
+  "ranking": [
+   "A4",
+   "A0",
+   "A2",
+   "A1",
+   "A3"
+  ],
+  "winner_changed": false
+ }
+]

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "When does swarm consensus help? Honeybee quorum consensus for BIM change approval on blockchain - code and data"
+authors:
+  - family-names: "[Surname]"
+    given-names: "Ayse"
+    affiliation: "[University]"
+version: 2.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/[username]/swarm-consensus-bim"
+keywords:
+  - BIM
+  - IFC
+  - blockchain
+  - smart contracts
+  - collective decision-making
+  - multi-criteria decision-making

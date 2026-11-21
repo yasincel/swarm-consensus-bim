@@ -1,0 +1,14 @@
+{
+  "name": "hqc2-contract",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Honeybee Quorum Consensus v2 with evidence challenges and slashing",
+  "scripts": {
+    "test": "hardhat test",
+    "casestudy": "hardhat run scripts/casestudy.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}

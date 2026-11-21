@@ -1,0 +1,25 @@
+{
+ "alternative": "A0",
+ "alt_hash": "2319501c37ffe399bd00959d85a5151098acb084ea294cd3b733b13489bb5700",
+ "role": "mep",
+ "verifiable": true,
+ "formula": "kWh / (kWh + mep_reference_kwh_yr), kWh = PV yield + heating saving",
+ "inputs": {
+  "area_changed_m2": 0.0,
+  "pv_kwh_yr": 0.0,
+  "heat_kwh_yr": 0.0,
+  "capex_eur": 0.0,
+  "embodied_t": 0.0,
+  "added_load_kg_m2": 0.0,
+  "vlt_ratio": 1.0,
+  "glazed_area_m2": 220.35,
+  "pv_area_m2": 212.4,
+  "edge_area_m2": 46.89,
+  "savings_eur_yr": 0.0,
+  "operational_t_yr": 0.0,
+  "net_carbon_saving_t": 0.0,
+  "payback_yr": null
+ },
+ "parameters_hash": "b9a00639e6eb7ff016733732784d7e05fe320fbf051812367b0bf8ea5ea2e442",
+ "score": 0
+}

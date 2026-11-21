@@ -1,0 +1,1506 @@
+{
+ "alternative": "A2",
+ "description": "Triple glazing on curtain-wall glazed panels",
+ "changes": [
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU9",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRUB",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSy",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRUD",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRUE",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU0",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU1",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRS_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU3",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU4",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRS$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU6",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRU7",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSm",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTv",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTw",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSn",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTy",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSo",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTK",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTL",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTN",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRT8",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTA",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRTB",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0q9es9kCD4oOj_kMIudRSr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXJ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXI",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXT",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXV",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXU",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXP",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXR",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIXQ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIYb",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIYd",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIYc",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "00OcTh2YnDIRjBe1O3sIYX",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "02_CiyN659neOqt2G8OlnC",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "02_CiyN659neOqt2G8Olop",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "02_CiyN659neOqt2G8Oloo",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROm",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROs",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRRb",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROx",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRRa",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROv",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtROu",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRRh",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUo",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUn",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUm",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUs",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2ch6GiTYr6ofWwBJULtRUq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnmEwxx",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954s",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnmEwxu",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954t",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955j",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955g",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955e",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955f",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954r",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955t",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954o",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955o",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955p",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954p",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955n",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954m",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955U",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955V",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954n",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955T",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955Q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955O",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm955P",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954M",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954N",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954K",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954I",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954J",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954G",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954U",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954V",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954S",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954Q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954R",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "343IftMCP4UOCLPJnm954O",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3VPu6Q9HP8$RPQyOwZd3lq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3VPu6Q9HP8$RPQyOwZd3lr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3VPu6Q9HP8$RPQyOwZd3lp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5K",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5U",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5S",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5t",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5v",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no5$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2pwDOOMab0WgF3Q0CIvrNR",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no43",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no41",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2pwDOOMab0WgF3Q0CIvrJp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4Q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4O",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4k",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4m",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4s",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2pwDOOMab0WgF3Q0CIvrV7",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4w",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no4u",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2pwDOOMab0WgF3Q0CIvrVD",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxC",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxI",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nosV",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nosX",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nosd",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$norN",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$norP",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$norV",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nof3",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nof5",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nofB",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqld$x",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqld$w",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqld$$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqld$_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqldjI",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqldjH",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqldjM",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3SnOVw7ojDZ8nnFzhqldex",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0V7b1sZrLBF8P59YUseL$6",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0V7b1sZrLBF8P59YUseLub",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0V7b1sZrLBF8P59YUseLxW",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0V7b1sZrLBF8P59YUseLxY",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$8CW",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$84F",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$868",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$81y",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$81p",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$84E",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$86F",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "3RKbg7mVv5KOhSWj4h$81o",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "23guZW2iXFCuvZJwtILzWN",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0fb8ht1cj4oRHWJZerVZJi",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0fb8ht1cj4oRHWJZerVZK5",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0fb8ht1cj4oRHWJZerVZK4",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0fb8ht1cj4oRHWJZerVZSZ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "0fb8ht1cj4oRHWJZerVZTp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f2u",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f03",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Fie0ty599fxnsmWh4Vkco",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Fie0ty599fxnsmWh4Vkcp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Fie0ty599fxnsmWh4Vkcq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f0g",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f0c",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f0u",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f0t",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f0s",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f2Y",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3z",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3Q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3f",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3U",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f37",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3J",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3d",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3N",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f3u",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fB_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8P",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fBs",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f85",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fBw",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fBZ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8F",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8D",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fBl",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f83",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fBp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8K",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8a",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f90",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9S",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9i",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f8W",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f99",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9s",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9q",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9L",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9g",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9P",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5f9x",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMG",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMl",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fM4",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMs",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNa",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNW",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fN2",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fN1",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fN0",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMB",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNA",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fMY",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNQ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNI",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fKN",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fKJ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNo",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2Dmljw8uHCLBZQQu9H5fNn",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Euni2",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Euni5",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniB",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Euni9",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniF",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniD",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniJ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniH",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniN",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniM",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniL",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniK",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniR",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniQ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniP",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5EuniO",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunju",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunj$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunj_",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunjz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunjy",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunj3",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunj2",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "21U07TPLv4F9zfrV5Eunj1",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2MAHRuCXP51wFXs0k0D8sR",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2MAHRuCXP51wFXs0k0D8sH",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  },
+  {
+   "GlobalId": "2MAHRuCXP51wFXs0k0D8sJ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "glazed_triple"
+   }
+  }
+ ]
+}

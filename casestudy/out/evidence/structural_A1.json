@@ -1,0 +1,25 @@
+{
+ "alternative": "A1",
+ "alt_hash": "5eac51cff0aa24265fc6ae3ab7a954a64fd0b0b43ea506851c43b0afaab6e5de",
+ "role": "structural",
+ "verifiable": true,
+ "formula": "1 - max(0, added_load_kg_m2) / structural_allowance_kg_m2",
+ "inputs": {
+  "area_changed_m2": 220.35,
+  "pv_kwh_yr": 8805.779,
+  "heat_kwh_yr": 24972.977,
+  "capex_eur": 107971.402,
+  "embodied_t": 26.442,
+  "added_load_kg_m2": 10,
+  "vlt_ratio": 0.429,
+  "glazed_area_m2": 220.35,
+  "pv_area_m2": 212.4,
+  "edge_area_m2": 46.89,
+  "savings_eur_yr": 3758.994,
+  "operational_t_yr": 7.196,
+  "net_carbon_saving_t": 153.459,
+  "payback_yr": 28.723
+ },
+ "parameters_hash": "b9a00639e6eb7ff016733732784d7e05fe320fbf051812367b0bf8ea5ea2e442",
+ "score": 500
+}

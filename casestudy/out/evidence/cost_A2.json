@@ -1,0 +1,25 @@
+{
+ "alternative": "A2",
+ "alt_hash": "cf2b272f488a46a2bc193f6976942733e8dc9dbf603dbf717b53331c645d39d8",
+ "role": "cost",
+ "verifiable": true,
+ "formula": "1 - capex_eur / cost_budget_eur",
+ "inputs": {
+  "area_changed_m2": 220.35,
+  "pv_kwh_yr": 0.0,
+  "heat_kwh_yr": 29379.973,
+  "capex_eur": 85936.422,
+  "embodied_t": 19.831,
+  "added_load_kg_m2": 15,
+  "vlt_ratio": 0.857,
+  "glazed_area_m2": 220.35,
+  "pv_area_m2": 212.4,
+  "edge_area_m2": 46.89,
+  "savings_eur_yr": 2350.398,
+  "operational_t_yr": 5.876,
+  "net_carbon_saving_t": 127.068,
+  "payback_yr": 36.563
+ },
+ "parameters_hash": "b9a00639e6eb7ff016733732784d7e05fe320fbf051812367b0bf8ea5ea2e442",
+ "score": 427
+}

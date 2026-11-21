@@ -1,0 +1,209 @@
+{
+ "alternatives": {
+  "A0": "Baseline (no change)",
+  "A1": "BIPV glass infill on curtain-wall glazed panels",
+  "A2": "Triple glazing on curtain-wall glazed panels",
+  "A3": "High-efficiency repowering of existing PV panels",
+  "A4": "PV modules on the opaque Solar Wall edge panels"
+ },
+ "alt_hash": {
+  "A0": "2319501c37ffe399bd00959d85a5151098acb084ea294cd3b733b13489bb5700",
+  "A1": "5eac51cff0aa24265fc6ae3ab7a954a64fd0b0b43ea506851c43b0afaab6e5de",
+  "A2": "cf2b272f488a46a2bc193f6976942733e8dc9dbf603dbf717b53331c645d39d8",
+  "A3": "9fba85faa67991cd38b03b7a6ff05395149f411d94772d717a7eeaa8267e9a1b",
+  "A4": "75f39806089ca14e42eee690868e3c36a8a3c050e2924a5dc36de573fbd5e97f"
+ },
+ "results": {
+  "A0": {
+   "quantities": {
+    "area_changed_m2": 0.0,
+    "pv_kwh_yr": 0.0,
+    "heat_kwh_yr": 0.0,
+    "capex_eur": 0.0,
+    "embodied_t": 0.0,
+    "added_load_kg_m2": 0.0,
+    "vlt_ratio": 1.0,
+    "glazed_area_m2": 220.35,
+    "pv_area_m2": 212.4,
+    "edge_area_m2": 46.89,
+    "savings_eur_yr": 0.0,
+    "operational_t_yr": 0.0,
+    "net_carbon_saving_t": 0.0,
+    "payback_yr": null
+   },
+   "scores": {
+    "architect": 1000,
+    "structural": 1000,
+    "mep": 0,
+    "cost": 1000,
+    "sustainability": 0,
+    "client": 500
+   },
+   "weighted": 583.3
+  },
+  "A1": {
+   "quantities": {
+    "area_changed_m2": 220.35,
+    "pv_kwh_yr": 8805.779,
+    "heat_kwh_yr": 24972.977,
+    "capex_eur": 107971.402,
+    "embodied_t": 26.442,
+    "added_load_kg_m2": 10,
+    "vlt_ratio": 0.429,
+    "glazed_area_m2": 220.35,
+    "pv_area_m2": 212.4,
+    "edge_area_m2": 46.89,
+    "savings_eur_yr": 3758.994,
+    "operational_t_yr": 7.196,
+    "net_carbon_saving_t": 153.459,
+    "payback_yr": 28.723
+   },
+   "scores": {
+    "architect": 429,
+    "structural": 500,
+    "mep": 628,
+    "cost": 280,
+    "sustainability": 1000,
+    "client": 360
+   },
+   "weighted": 532.8
+  },
+  "A2": {
+   "quantities": {
+    "area_changed_m2": 220.35,
+    "pv_kwh_yr": 0.0,
+    "heat_kwh_yr": 29379.973,
+    "capex_eur": 85936.422,
+    "embodied_t": 19.831,
+    "added_load_kg_m2": 15,
+    "vlt_ratio": 0.857,
+    "glazed_area_m2": 220.35,
+    "pv_area_m2": 212.4,
+    "edge_area_m2": 46.89,
+    "savings_eur_yr": 2350.398,
+    "operational_t_yr": 5.876,
+    "net_carbon_saving_t": 127.068,
+    "payback_yr": 36.563
+   },
+   "scores": {
+    "architect": 857,
+    "structural": 250,
+    "mep": 595,
+    "cost": 427,
+    "sustainability": 1000,
+    "client": 228
+   },
+   "weighted": 559.5
+  },
+  "A3": {
+   "quantities": {
+    "area_changed_m2": 212.405,
+    "pv_kwh_yr": 4672.906,
+    "heat_kwh_yr": 0.0,
+    "capex_eur": 61597.392,
+    "embodied_t": 31.861,
+    "added_load_kg_m2": 0,
+    "vlt_ratio": 1.0,
+    "glazed_area_m2": 220.35,
+    "pv_area_m2": 212.4,
+    "edge_area_m2": 46.89,
+    "savings_eur_yr": 934.581,
+    "operational_t_yr": 1.168,
+    "net_carbon_saving_t": -2.655,
+    "payback_yr": 65.909
+   },
+   "scores": {
+    "architect": 1000,
+    "structural": 1000,
+    "mep": 189,
+    "cost": 589,
+    "sustainability": 0,
+    "client": 118
+   },
+   "weighted": 482.7
+  },
+  "A4": {
+   "quantities": {
+    "area_changed_m2": 46.886,
+    "pv_kwh_yr": 4805.954,
+    "heat_kwh_yr": 0.0,
+    "capex_eur": 13596.824,
+    "embodied_t": 7.033,
+    "added_load_kg_m2": -5,
+    "vlt_ratio": 1.0,
+    "glazed_area_m2": 220.35,
+    "pv_area_m2": 212.4,
+    "edge_area_m2": 46.89,
+    "savings_eur_yr": 961.191,
+    "operational_t_yr": 1.201,
+    "net_carbon_saving_t": 23.004,
+    "payback_yr": 14.146
+   },
+   "scores": {
+    "architect": 1000,
+    "structural": 1000,
+    "mep": 194,
+    "cost": 909,
+    "sustainability": 230,
+    "client": 604
+   },
+   "weighted": 656.2
+  }
+ },
+ "ranking_weighted_sum": [
+  "A4",
+  "A0",
+  "A2",
+  "A1",
+  "A3"
+ ],
+ "evidence_hash": {
+  "A0": {
+   "architect": "7306861c541846934204a5caf9a5a41df38dd4f26d3715f4e6969724f5905abd",
+   "structural": "9c43ce9af2d064352f42882c113c72183d7d2ebfb088a6d1812d1b93fdb827c2",
+   "mep": "d8b2a1423f2b3e332620e9e65fe9dfda35aae944c4f82795ee8ebe863ae40ee0",
+   "cost": "54025eb309b100ef574284c4153d66748bdd59c6b7d6c8208dc3083a07ceb05d",
+   "sustainability": "495220f3fba463671a26f66769a2c0918298e47c130105c40b4edb1ade493caf",
+   "client": "4b309310507092d6affcec36c0c56c7a5740935fe2dcb349929ed7cdcf567294"
+  },
+  "A1": {
+   "architect": "cae0890559ea55ef6da03500362f05db94c828ac916c4359b639c6b284f60a0b",
+   "structural": "644995abc6d11c323838630ff1ced100c264a8d6f271c6a8a32d6388e060b02f",
+   "mep": "5cec6d84965b5cfcc4fa4527b1d548a9a89f41e814f6577d1f5faf8f4bb88996",
+   "cost": "449ba439a109fcad2ee5773ea79a74444bae9774d523d183014af84f765c33ab",
+   "sustainability": "ac73de2bb051b705bc0053d0324dd4360fb335c96988d4dd613730904890fb07",
+   "client": "831fbe8e15ad5c68142a72d9a3e1d020354f307391ffdfaf4238c88931159b1a"
+  },
+  "A2": {
+   "architect": "759efe353a6bbfb21940f92d506f913fe709e40aed42332369755b23ecd44856",
+   "structural": "204f104236e2f111106efc46e2f808d0f457f96a79225b8cfe26693d50b0f2cf",
+   "mep": "e8d6ab67ea8ed8313f5d487cb2afcc434e69ee4b272771b15f56a81b96bb30f3",
+   "cost": "b45cad2351f21a7c58494be6142c2c3ade52a1d63b8de62c90b16806e1b8fce7",
+   "sustainability": "0804bb5f381949cd5c7627ca9d9c5e213552c29867c3cd6407230dec2b194ed0",
+   "client": "1c2c42d098da95545ed10adf4a7d154be79ae168e5ad6485616eb356f28a1795"
+  },
+  "A3": {
+   "architect": "4baa5d51365a3970bb168fc61c8cbe36e9a0a0b34ed43d5aacd5355c38dc84a7",
+   "structural": "c16ad58fdfbbc56eb265c8c12bb4945a00293489d92d55c605cc8193aa340ed8",
+   "mep": "01917a4172d6f574d72bdc5d337d78343af91f1b4547229e96fcd6b363077fac",
+   "cost": "b68ba9709340e08cc85c4a920ef45ba12f863e075d0f7840f4d7514b0b927d06",
+   "sustainability": "3458b641036b423870bf6217a6c4d549f6d3ac617edbd38e45a747bbfdd3b863",
+   "client": "73aff25ea5244373dadb04aafc5c4ae30bb62bac438db38506406ffea5ecb01d"
+  },
+  "A4": {
+   "architect": "27887dcd3f70e7b37c09513be2fb85b35f0da5fb42e02f4f858a6fc1580c90fa",
+   "structural": "57605d81793b8922a89411d4677d733cca1114330855cdd769be4f9e46c9d50b",
+   "mep": "8d7e1ebc02762137d9c439ac83f7eb916c81010a1fed980ea4d633657f3eb30f",
+   "cost": "5a1962d2fabc784a2e4be2e55408597a43bf7e7e17824c96fceb5b9a227004e3",
+   "sustainability": "b0e1ef92dfdb5ab54de5065d59d9c5ed4caa794b26745c640788728b8e36b815",
+   "client": "564e0157fc7f572b1204e801e70fa045e3bf33d838d26b7a5074825ea0e16214"
+  }
+ },
+ "verifiable_roles": [
+  "cost",
+  "mep",
+  "structural",
+  "sustainability"
+ ],
+ "sensitivity_winner_stability": 0.988
+}

@@ -1,0 +1,34 @@
+{
+  "_note": "Illustrative parameters for the Snowdon Towers Solar Wall case study. Every value is an assumption stated in the paper (Table: case-study parameters) and is varied by +/-20 % in the sensitivity analysis. Replace with project-specific values where available.",
+  "lifetime_years": 25,
+  "climate": {
+    "ghi_kwh_m2_yr": 1100,
+    "heating_degree_days_Kd": 2500,
+    "facade_irradiance_factor": { "south": 0.70, "east_west": 0.50, "north": 0.25, "roof": 1.00 }
+  },
+  "energy": {
+    "pv_performance_ratio": 0.80,
+    "heating_system_efficiency": 0.90,
+    "electricity_price_eur_kwh": 0.20,
+    "heating_fuel_price_eur_kwh": 0.08,
+    "grid_carbon_kg_kwh": 0.25,
+    "heating_fuel_carbon_kg_kwh": 0.20
+  },
+  "products": {
+    "glazed_double":   { "u_w_m2k": 2.8, "vlt": 0.70, "pv_eff": 0.00, "mass_kg_m2": 30, "cost_eur_m2": 0,   "ec_kg_m2": 0 },
+    "glazed_triple":   { "u_w_m2k": 0.8, "vlt": 0.60, "pv_eff": 0.00, "mass_kg_m2": 45, "cost_eur_m2": 350, "ec_kg_m2": 90 },
+    "bipv_glass":      { "u_w_m2k": 1.1, "vlt": 0.30, "pv_eff": 0.10, "mass_kg_m2": 40, "cost_eur_m2": 450, "ec_kg_m2": 120 },
+    "pv_existing":     { "pv_eff": 0.18, "mass_kg_m2": 15 },
+    "edge_existing":   { "mass_kg_m2": 20 },
+    "pv_high_eff":     { "pv_eff": 0.22, "mass_kg_m2": 15, "cost_eur_m2": 250, "ec_kg_m2": 150 },
+    "removal_cost_eur_m2": 40
+  },
+  "scoring": {
+    "structural_allowance_kg_m2": 20,
+    "mep_reference_kwh_yr": 20000,
+    "cost_budget_eur": 150000,
+    "carbon_target_t": 100,
+    "client_reference_eur": 50000,
+    "weights": { "architect": 0.1667, "structural": 0.1667, "mep": 0.1667, "cost": 0.1667, "sustainability": 0.1667, "client": 0.1667 }
+  }
+}

@@ -1,0 +1,384 @@
+{
+ "alternative": "A4",
+ "description": "PV modules on the opaque Solar Wall edge panels",
+ "changes": [
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxm",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBZP",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxt",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noxx",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nowb",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBaX",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nowg",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nowh",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nowe",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nouw",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBtK",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nouv",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nou$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nouz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no$l",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBtS",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no$i",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no$j",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$no$o",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nozy",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBbb",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noy3",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noy1",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noy7",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noyn",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "1yjzQ_fH5D2ulNYAuuyBbj",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noys",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noyt",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noyq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$non6",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "2B9ggR9Lj4EhSARQFirueS",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$non5",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$non9",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nonP",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "2B9ggR9Lj4EhSARQFirueJ",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nonU",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nonV",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nonS",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomV",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomY",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomc",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomo",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomm",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nomn",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notX",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$nota",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notg",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$note",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notq",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notw",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$notx",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqa",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqf",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqj",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqp",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqr",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noq$",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noqz",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noh2",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  },
+  {
+   "GlobalId": "04b3cqL6T7nASkHPv$noh3",
+   "set": {
+    "Pset_HQC_Alternative.Product": "pv_high_eff"
+   }
+  }
+ ]
+}
