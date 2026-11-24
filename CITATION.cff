@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "When does swarm consensus help? Honeybee quorum consensus for BIM change approval on blockchain - code and data"
+title: "When does swarm consensus help? Honeybee quorum consensus for multi-stakeholder BIM change approval on blockchain"
 authors:
   - family-names: "Celik"
     given-names: "Yasin"
